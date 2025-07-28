@@ -30,7 +30,7 @@ def eda_analysis(file_path):
     
     return f"\n Data Loaded Successfully!\n\n Summary:\n{summary}\n\n Missing Values:\n{missing_values}\n\n AI Insights:\n{insights}", plot_paths
 
-# AI-Powered Insights using Mistral-7B (Ollama)
+# AI-Powered Insights using LLM Models (Ollama)
 def generate_ai_insights(df_summary):
     prompt = f"Analyze the dataset summary and provide insights:\n\n{df_summary}"
     response = ollama.chat(model="tinyllama", messages=[{"role": "user", "content": prompt}])
