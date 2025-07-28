@@ -35,15 +35,6 @@ Upload any CSV dataset and get:
 
 3. Open in browser → Upload your CSV → Get full EDA report + Visualizations + AI insights.
 
-## 📸 Demo
-> *(You can add screenshots or GIFs here)*
-
-## 🌐 Try it Live
-> *(Paste your Gradio share link here)*
-
-## 📥 Dataset Used (Optional)
-> *(Optional: Mention if you used any default dataset for demo.)*
-
 ---
 
 ## 🤝 Contributions
