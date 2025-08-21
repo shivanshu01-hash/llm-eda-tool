@@ -1,19 +1,19 @@
-# 📊 LLM-Powered Exploratory Data Analysis (EDA) Tool
+# LLM-Powered Exploratory Data Analysis (EDA) Tool
 
 Upload any CSV dataset and get:
-- Automated EDA Summary 📋
-- Missing Value Analysis ⚠️
-- AI-Generated Insights (via TinyLlama 🧠)
+- Automated EDA Summary 
+- Missing Value Analysis 
+- AI-Generated Insights (via TinyLlama )
 - Visualizations (Histograms & Heatmaps)
 
-## 🚀 Features
+## Features
 - Gradio UI for easy interaction
 - Fill missing numeric data with median
 - Fill missing categorical data with mode
 - Use TinyLlama (via Ollama) for natural language dataset interpretation
 - Histograms & Correlation Heatmaps
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - Pandas
 - Matplotlib
@@ -22,7 +22,7 @@ Upload any CSV dataset and get:
 - Ollama
 - TinyLlama
 
-## 🔧 How to Run
+## How to Run
 1. Install dependencies  
    ```bash
    pip install -r requirements.txt
@@ -37,9 +37,9 @@ Upload any CSV dataset and get:
 
 ---
 
-## 🤝 Contributions
+## Contributions
 Feel free to fork, open issues, or submit pull requests!
 
-## 📩 Contact
-Made with ❤️ by Shivanshu Sahu  
+## Contact
+Made with by Shivanshu Sahu  
 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/yourusername)
